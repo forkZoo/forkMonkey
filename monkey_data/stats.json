@@ -1,8 +1,8 @@
 {
-  "dna_hash": "8dbecc4e7da52aa2",
+  "dna_hash": "379acc7fc4451a1d",
   "generation": 1,
   "age_days": 0,
-  "mutation_count": 73,
+  "mutation_count": 74,
   "rarity_score": 41.66666666666667,
   "parent_id": null,
   "traits": {
@@ -23,7 +23,7 @@
       "rarity": "uncommon"
     },
     "background": {
-      "value": "underwater",
+      "value": "space",
       "rarity": "rare"
     },
     "special": {
@@ -31,5 +31,5 @@
       "rarity": "rare"
     }
   },
-  "last_updated": "2026-03-28T00:58:22.718291"
+  "last_updated": "2026-03-29T01:06:51.414199"
 }
