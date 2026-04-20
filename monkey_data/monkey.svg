@@ -49,47 +49,7 @@
     </linearGradient>
     <clipPath id="head-clip"><ellipse cx="200" cy="200" rx="110" ry="115"/></clipPath>
 </defs>
-<rect width="400" height="400" fill="#0D1B2A"/>
-<circle cx="386" cy="374" r="1" fill="white" opacity="0.4"/>
-<circle cx="372" cy="348" r="2" fill="white" opacity="0.5"/>
-<circle cx="358" cy="322" r="1" fill="white" opacity="0.6000000000000001"/>
-<circle cx="344" cy="296" r="2" fill="white" opacity="0.7000000000000001"/>
-<circle cx="330" cy="270" r="1" fill="white" opacity="0.8"/>
-<circle cx="316" cy="244" r="2" fill="white" opacity="0.4"/>
-<circle cx="302" cy="218" r="1" fill="white" opacity="0.5"/>
-<circle cx="288" cy="192" r="2" fill="white" opacity="0.6000000000000001"/>
-<circle cx="274" cy="166" r="1" fill="white" opacity="0.7000000000000001"/>
-<circle cx="260" cy="140" r="2" fill="white" opacity="0.8"/>
-<circle cx="246" cy="114" r="1" fill="white" opacity="0.4"/>
-<circle cx="232" cy="88" r="2" fill="white" opacity="0.5"/>
-<circle cx="218" cy="62" r="1" fill="white" opacity="0.6000000000000001"/>
-<circle cx="204" cy="36" r="2" fill="white" opacity="0.7000000000000001"/>
-<circle cx="190" cy="10" r="1" fill="white" opacity="0.8"/>
-<circle cx="176" cy="384" r="2" fill="white" opacity="0.4"/>
-<circle cx="162" cy="358" r="1" fill="white" opacity="0.5"/>
-<circle cx="148" cy="332" r="2" fill="white" opacity="0.6000000000000001"/>
-<circle cx="134" cy="306" r="1" fill="white" opacity="0.7000000000000001"/>
-<circle cx="120" cy="280" r="2" fill="white" opacity="0.8"/>
-<circle cx="106" cy="254" r="1" fill="white" opacity="0.4"/>
-<circle cx="92" cy="228" r="2" fill="white" opacity="0.5"/>
-<circle cx="78" cy="202" r="1" fill="white" opacity="0.6000000000000001"/>
-<circle cx="64" cy="176" r="2" fill="white" opacity="0.7000000000000001"/>
-<circle cx="50" cy="150" r="1" fill="white" opacity="0.8"/>
-<circle cx="36" cy="124" r="2" fill="white" opacity="0.4"/>
-<circle cx="22" cy="98" r="1" fill="white" opacity="0.5"/>
-<circle cx="8" cy="72" r="2" fill="white" opacity="0.6000000000000001"/>
-<circle cx="394" cy="46" r="1" fill="white" opacity="0.7000000000000001"/>
-<circle cx="380" cy="20" r="2" fill="white" opacity="0.8"/>
-<circle cx="366" cy="394" r="1" fill="white" opacity="0.4"/>
-<circle cx="352" cy="368" r="2" fill="white" opacity="0.5"/>
-<circle cx="338" cy="342" r="1" fill="white" opacity="0.6000000000000001"/>
-<circle cx="324" cy="316" r="2" fill="white" opacity="0.7000000000000001"/>
-<circle cx="310" cy="290" r="1" fill="white" opacity="0.8"/>
-<circle cx="296" cy="264" r="2" fill="white" opacity="0.4"/>
-<circle cx="282" cy="238" r="1" fill="white" opacity="0.5"/>
-<circle cx="268" cy="212" r="2" fill="white" opacity="0.6000000000000001"/>
-<circle cx="254" cy="186" r="1" fill="white" opacity="0.7000000000000001"/>
-<circle cx="240" cy="160" r="2" fill="white" opacity="0.8"/>
+<rect width="400" height="400" fill="url(#aurora-gradient)"/>
 <circle cx="200" cy="200" r="160" fill="none" stroke="#9400D3" stroke-width="4" opacity="0.3"/><circle cx="200" cy="200" r="175" fill="none" stroke="#4B0082" stroke-width="2" opacity="0.2"/>
 <ellipse cx="115" cy="140" rx="45" ry="50" fill="#F5F5DC" filter="url(#shadow)"/>
 <ellipse cx="115" cy="140" rx="30" ry="35" fill="#FFB6C1"/>
