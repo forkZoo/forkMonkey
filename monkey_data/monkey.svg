@@ -49,47 +49,7 @@
     </linearGradient>
     <clipPath id="head-clip"><ellipse cx="200" cy="200" rx="110" ry="115"/></clipPath>
 </defs>
-<rect width="400" height="400" fill="#0D1B2A"/>
-<circle cx="377" cy="243" r="1" fill="white" opacity="0.4"/>
-<circle cx="354" cy="86" r="2" fill="white" opacity="0.5"/>
-<circle cx="331" cy="329" r="1" fill="white" opacity="0.6000000000000001"/>
-<circle cx="308" cy="172" r="2" fill="white" opacity="0.7000000000000001"/>
-<circle cx="285" cy="15" r="1" fill="white" opacity="0.8"/>
-<circle cx="262" cy="258" r="2" fill="white" opacity="0.4"/>
-<circle cx="239" cy="101" r="1" fill="white" opacity="0.5"/>
-<circle cx="216" cy="344" r="2" fill="white" opacity="0.6000000000000001"/>
-<circle cx="193" cy="187" r="1" fill="white" opacity="0.7000000000000001"/>
-<circle cx="170" cy="30" r="2" fill="white" opacity="0.8"/>
-<circle cx="147" cy="273" r="1" fill="white" opacity="0.4"/>
-<circle cx="124" cy="116" r="2" fill="white" opacity="0.5"/>
-<circle cx="101" cy="359" r="1" fill="white" opacity="0.6000000000000001"/>
-<circle cx="78" cy="202" r="2" fill="white" opacity="0.7000000000000001"/>
-<circle cx="55" cy="45" r="1" fill="white" opacity="0.8"/>
-<circle cx="32" cy="288" r="2" fill="white" opacity="0.4"/>
-<circle cx="9" cy="131" r="1" fill="white" opacity="0.5"/>
-<circle cx="386" cy="374" r="2" fill="white" opacity="0.6000000000000001"/>
-<circle cx="363" cy="217" r="1" fill="white" opacity="0.7000000000000001"/>
-<circle cx="340" cy="60" r="2" fill="white" opacity="0.8"/>
-<circle cx="317" cy="303" r="1" fill="white" opacity="0.4"/>
-<circle cx="294" cy="146" r="2" fill="white" opacity="0.5"/>
-<circle cx="271" cy="389" r="1" fill="white" opacity="0.6000000000000001"/>
-<circle cx="248" cy="232" r="2" fill="white" opacity="0.7000000000000001"/>
-<circle cx="225" cy="75" r="1" fill="white" opacity="0.8"/>
-<circle cx="202" cy="318" r="2" fill="white" opacity="0.4"/>
-<circle cx="179" cy="161" r="1" fill="white" opacity="0.5"/>
-<circle cx="156" cy="4" r="2" fill="white" opacity="0.6000000000000001"/>
-<circle cx="133" cy="247" r="1" fill="white" opacity="0.7000000000000001"/>
-<circle cx="110" cy="90" r="2" fill="white" opacity="0.8"/>
-<circle cx="87" cy="333" r="1" fill="white" opacity="0.4"/>
-<circle cx="64" cy="176" r="2" fill="white" opacity="0.5"/>
-<circle cx="41" cy="19" r="1" fill="white" opacity="0.6000000000000001"/>
-<circle cx="18" cy="262" r="2" fill="white" opacity="0.7000000000000001"/>
-<circle cx="395" cy="105" r="1" fill="white" opacity="0.8"/>
-<circle cx="372" cy="348" r="2" fill="white" opacity="0.4"/>
-<circle cx="349" cy="191" r="1" fill="white" opacity="0.5"/>
-<circle cx="326" cy="34" r="2" fill="white" opacity="0.6000000000000001"/>
-<circle cx="303" cy="277" r="1" fill="white" opacity="0.7000000000000001"/>
-<circle cx="280" cy="120" r="2" fill="white" opacity="0.8"/>
+<rect width="400" height="400" fill="url(#aurora-gradient)"/>
 <circle cx="200" cy="200" r="165" fill="none" stroke="#00FFFF" stroke-width="3" opacity="0.25" stroke-dasharray="20,10"/>
 <ellipse cx="115" cy="140" rx="45" ry="50" fill="#FFD700" filter="url(#shadow)"/>
 <ellipse cx="115" cy="140" rx="30" ry="35" fill="#FFB6C1"/>
@@ -99,7 +59,7 @@
 <ellipse cx="285" cy="145" rx="18" ry="22" fill="#FF9999"/>
 <ellipse cx="200" cy="200" rx="110" ry="115" fill="#FFD700" filter="url(#shadow)"/>
 <ellipse cx="180" cy="140" rx="50" ry="30" fill="#FFEC8B" opacity="0.3"/>
-<g clip-path="url(#head-clip)"><text x="125" y="125" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="146" y="218" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="167" y="161" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="188" y="254" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="209" y="197" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="230" y="140" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="251" y="233" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="272" y="176" font-size="18" fill="#00CED1" opacity="0.35">◆</text></g>
+<g clip-path="url(#head-clip)"><text x="125" y="125" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="208" y="264" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="141" y="253" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="224" y="242" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="157" y="231" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="240" y="220" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="173" y="209" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="256" y="198" font-size="18" fill="#00CED1" opacity="0.35">◆</text></g>
 <ellipse cx="200" cy="235" rx="70" ry="60" fill="#FFDAB9"/>
 <ellipse cx="200" cy="250" rx="55" ry="40" fill="#DEB887" opacity="0.3"/>
 <ellipse cx="162" cy="185" rx="22" ry="24" fill="#000" opacity="0.08"/>
@@ -117,7 +77,7 @@
             <ellipse cx="208" cy="230" rx="5" ry="7" fill="#5D2E0C"/>
         </g>
 <path d="M178 260 Q200 268 222 260" stroke="#5D2E0C" stroke-width="2" fill="none"/>
-<path d="M125 170 Q125 100 200 90 Q275 100 275 170" stroke="#333" stroke-width="8" fill="none"/><rect x="115" y="155" width="25" height="40" rx="5" fill="#333"/><rect x="260" y="155" width="25" height="40" rx="5" fill="#333"/>
+<polygon points="165,70 180,45 200,65 220,45 235,70" fill="#FFD700" stroke="#DAA520" stroke-width="2"/><rect x="165" y="70" width="70" height="12" fill="#FFD700" stroke="#DAA520" stroke-width="2"/>
 
 <g transform="translate(325, 15)">
             <rect width="65" height="22" rx="4" fill="#4ECDC4" opacity="0.9"/>
