@@ -51,15 +51,15 @@
 </defs>
 <rect width="400" height="400" fill="url(#aurora-gradient)"/>
 <circle cx="200" cy="200" r="180" fill="url(#multiverse-gradient)" opacity="0.15"/>
-<ellipse cx="115" cy="140" rx="45" ry="50" fill="#FFD700" filter="url(#shadow)"/>
+<ellipse cx="115" cy="140" rx="45" ry="50" fill="#B87333" filter="url(#shadow)"/>
 <ellipse cx="115" cy="140" rx="30" ry="35" fill="#FFB6C1"/>
 <ellipse cx="115" cy="145" rx="18" ry="22" fill="#FF9999"/>
-<ellipse cx="285" cy="140" rx="45" ry="50" fill="#FFD700" filter="url(#shadow)"/>
+<ellipse cx="285" cy="140" rx="45" ry="50" fill="#B87333" filter="url(#shadow)"/>
 <ellipse cx="285" cy="140" rx="30" ry="35" fill="#FFB6C1"/>
 <ellipse cx="285" cy="145" rx="18" ry="22" fill="#FF9999"/>
-<ellipse cx="200" cy="200" rx="110" ry="115" fill="#FFD700" filter="url(#shadow)"/>
-<ellipse cx="180" cy="140" rx="50" ry="30" fill="#FFEC8B" opacity="0.3"/>
-<g clip-path="url(#head-clip)"><text x="125" y="125" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="234" y="172" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="193" y="219" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="152" y="266" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="261" y="163" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="220" y="210" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="179" y="257" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="138" y="154" font-size="18" fill="#00CED1" opacity="0.35">◆</text></g>
+<ellipse cx="200" cy="200" rx="110" ry="115" fill="#B87333" filter="url(#shadow)"/>
+<ellipse cx="180" cy="140" rx="50" ry="30" fill="#D4A574" opacity="0.3"/>
+<g clip-path="url(#head-clip)"><text x="125" y="125" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="175" y="225" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="225" y="175" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="125" y="125" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="175" y="225" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="225" y="175" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="125" y="125" font-size="18" fill="#00CED1" opacity="0.35">◆</text><text x="175" y="225" font-size="18" fill="#00CED1" opacity="0.35">◆</text></g>
 <ellipse cx="200" cy="235" rx="70" ry="60" fill="#FFDAB9"/>
 <ellipse cx="200" cy="250" rx="55" ry="40" fill="#DEB887" opacity="0.3"/>
 <ellipse cx="162" cy="185" rx="22" ry="24" fill="#000" opacity="0.08"/>
