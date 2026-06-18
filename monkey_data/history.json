@@ -3183,6 +3183,22 @@
         "special": "transcendent"
       },
       "story": "Your monkey evolved randomly!"
+    },
+    {
+      "timestamp": "2026-06-18T02:07:25.536692",
+      "dna_hash": "1edad0fb86bbbd11",
+      "generation": 1,
+      "mutation_count": 125,
+      "rarity_score": 45.0,
+      "traits": {
+        "body_color": "silver",
+        "face_expression": "wise",
+        "accessory": "bow",
+        "pattern": "quantum",
+        "background": "city",
+        "special": "transcendent"
+      },
+      "story": "Your monkey evolved randomly!"
     }
   ]
 }
