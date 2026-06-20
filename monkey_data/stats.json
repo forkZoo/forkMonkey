@@ -1,14 +1,14 @@
 {
-  "dna_hash": "1edad0fb86bbbd11",
+  "dna_hash": "307385b27f110f72",
   "generation": 1,
   "age_days": 0,
-  "mutation_count": 125,
-  "rarity_score": 45.0,
+  "mutation_count": 126,
+  "rarity_score": 43.333333333333336,
   "parent_id": null,
   "traits": {
     "body_color": {
-      "value": "silver",
-      "rarity": "uncommon"
+      "value": "beige",
+      "rarity": "common"
     },
     "face_expression": {
       "value": "wise",
@@ -31,5 +31,5 @@
       "rarity": "legendary"
     }
   },
-  "last_updated": "2026-06-19T02:35:01.299924"
+  "last_updated": "2026-06-20T01:56:51.669022"
 }
