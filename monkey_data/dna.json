@@ -1,8 +1,8 @@
 {
   "generation": 1,
   "parent_id": null,
-  "dna_hash": "8e23bbfd1c2c7166",
-  "mutation_count": 211,
+  "dna_hash": "4fc14a3f5728577d",
+  "mutation_count": 213,
   "birth_timestamp": 355496,
   "traits": {
     "body_color": {
@@ -16,14 +16,14 @@
       "gene_sequence": "374db983"
     },
     "accessory": {
-      "value": "headphones",
+      "value": "monocle",
       "rarity": "uncommon",
-      "gene_sequence": "c1193660"
+      "gene_sequence": "4b7e2599"
     },
     "pattern": {
-      "value": "lightning",
+      "value": "nebula",
       "rarity": "rare",
-      "gene_sequence": "1aa0a4dd"
+      "gene_sequence": "5aa6e7de"
     },
     "background": {
       "value": "underwater",
