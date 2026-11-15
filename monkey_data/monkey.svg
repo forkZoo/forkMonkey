@@ -78,7 +78,7 @@
         </g>
 <line x1="182" y1="260" x2="218" y2="260" stroke="#5D2E0C" stroke-width="2"/>
 <polygon points="165,70 180,45 200,65 220,45 235,70" fill="#FFD700" stroke="#DAA520" stroke-width="2"/><rect x="165" y="70" width="70" height="12" fill="#FFD700" stroke="#DAA520" stroke-width="2"/>
-<circle cx="200" cy="200" r="150" fill="none" stroke="#FFF" stroke-width="3" opacity="0.5" filter="url(#glow)"/><text x="200" y="30" font-size="36" fill="#FFD700" text-anchor="middle" filter="url(#glow)">♔</text>
+<circle cx="200" cy="200" r="145" fill="none" stroke="#FFD700" stroke-width="4" opacity="0.4" filter="url(#glow)"/>
 <g transform="translate(325, 15)">
             <rect width="65" height="22" rx="4" fill="#9370DB" opacity="0.9"/>
             <text x="32" y="15" font-size="8" fill="#FFF" text-anchor="middle" font-family="sans-serif" font-weight="bold">RARE</text>
