@@ -78,7 +78,7 @@
         </g>
 <path d="M178 260 Q200 268 222 260" stroke="#5D2E0C" stroke-width="2" fill="none"/>
 <path d="M125 170 Q125 100 200 90 Q275 100 275 170" stroke="#333" stroke-width="8" fill="none"/><rect x="115" y="155" width="25" height="40" rx="5" fill="#333"/><rect x="260" y="155" width="25" height="40" rx="5" fill="#333"/>
-<circle cx="200" cy="200" r="145" fill="none" stroke="#FFD700" stroke-width="4" opacity="0.4" filter="url(#glow)"/>
+<circle cx="200" cy="200" r="155" fill="none" stroke="#FF00FF" stroke-width="3" opacity="0.4" filter="url(#glow)"/><circle cx="200" cy="200" r="165" fill="none" stroke="#00FFFF" stroke-width="2" opacity="0.3"/>
 <g transform="translate(325, 15)">
             <rect width="65" height="22" rx="4" fill="#9370DB" opacity="0.9"/>
             <text x="32" y="15" font-size="8" fill="#FFF" text-anchor="middle" font-family="sans-serif" font-weight="bold">RARE</text>
